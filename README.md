@@ -38,7 +38,7 @@ projekt/
 ├── requirements.txt
 ├── spam_Emails_data.csv
 ├── spam_checker_gui.py
-├── projekt_spam_magistra_v3_fixed.ipynb
+├── projekt_spam.ipynb
 ├── results/
 │   ├── bert_finetuned/
 │   ├── bert_finetuned_0p5x/
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 Notatnik z eksperymentami można otworzyć w VS Code, Jupyter Notebook lub JupyterLab:
 
 ```bash
-jupyter notebook projekt_spam_magistra_v3_fixed.ipynb
+jupyter notebook projekt_spam.ipynb
 ```
 
 Po uruchomieniu notebooka można wykonać kolejne komórki w odpowiedniej kolejności, aby:
